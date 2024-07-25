@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoveeStreamDeckPlugin", "GoveeStreamDeckPlugin.csproj", "{4635D874-69C0-4010-BE46-77EF92EB1553}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoveeClient", "..\GoveeClient\GoveeClient.csproj", "{088B1057-3247-480D-81BE-6273AF757815}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4635D874-69C0-4010-BE46-77EF92EB1553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4635D874-69C0-4010-BE46-77EF92EB1553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4635D874-69C0-4010-BE46-77EF92EB1553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088B1057-3247-480D-81BE-6273AF757815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088B1057-3247-480D-81BE-6273AF757815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088B1057-3247-480D-81BE-6273AF757815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088B1057-3247-480D-81BE-6273AF757815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

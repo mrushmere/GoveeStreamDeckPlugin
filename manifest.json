@@ -17,7 +17,7 @@
     },
     {
       "Icon": "Images/icon",
-      "Name": "TODO_NAME_OF_DIAL_ACTION",
+      "Name": "Adjust Brightness",
       "States": [
         {
           "Image": "Images/pluginAction",
